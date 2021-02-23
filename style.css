@@ -11,12 +11,12 @@ body{
 }
 
 header{
-    background: white;
+    background: rgb(255, 255, 255);
     padding: 20px;
 }
 
 header > h1{
-    color: rgb(74, 71, 80);
+    color: rgb(41, 41, 44);
     text-align: center;
     font-family: Asap;
 }
@@ -33,6 +33,7 @@ header > h1{
     padding: 15px 20px;
     font-family: Asap, sans-serif;
     position: relative;
+    margin-top: 60px;
 }
 
 .badge{
@@ -58,6 +59,7 @@ header > h1{
 .result{
     font-size: 30px;
     color: white;
+    margin-top: 100px;
 }
 
 .result > p{
@@ -69,7 +71,7 @@ header > h1{
 }
 
 .choices{
-    margin-top: 50px;
+    margin-top: 100px;
     text-align: center;
 }
 
