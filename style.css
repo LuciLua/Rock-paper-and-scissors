@@ -33,7 +33,7 @@ header > h1{
     padding: 15px 20px;
     font-family: Asap, sans-serif;
     position: relative;
-    margin-top: 60px;
+    margin-top: 50px;
 }
 
 .badge{
@@ -59,7 +59,7 @@ header > h1{
 .result{
     font-size: 30px;
     color: white;
-    margin-top: 100px;
+    margin-top: 80px;
 }
 
 .result > p{
